@@ -2,6 +2,7 @@
 Keras和OpenCv数据增强API的封装版
 
 1.Keras自带的数据增强API奇坑无比，对文件结构有很奇怪的要求，所以对其进行了一层封装
+
 Folder
   --class1
     --1.jpg
